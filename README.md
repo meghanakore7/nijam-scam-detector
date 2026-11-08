@@ -147,5 +147,4 @@ Why this message was flagged:
 
 ## Author
 
-Pedhodha — CSE student, built for a Tech for Social Good hackathon
-submission.
+Meghana — CSE student
